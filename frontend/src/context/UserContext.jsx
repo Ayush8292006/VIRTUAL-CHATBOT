@@ -4,7 +4,7 @@ import axios from "axios";
 export const userDataContext = createContext();
 
 const UserContext = ({ children }) => {
-  const serverUrl = "http://localhost:8000";
+  const serverUrl = "https://virtual-chatbot-backend-07wj.onrender.com";
   const [userData, setUserData] = useState(null);
   const [frontendImage, setFrontendImage] = useState(null);
   const [backendImage, setBackendImage] = useState(null);
