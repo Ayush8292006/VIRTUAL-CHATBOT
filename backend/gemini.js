@@ -86,7 +86,7 @@ Your job is to understand natural language voice/text commands and respond ONLY 
 - “Increase / decrease brightness” → "brightness_control"
 
 #### 🔹 SOCIAL / ENTERTAINMENT
-- “Open Instagram / WhatsApp / Facebook / Twitter / Telegram / LinkedIn / Snapchat / Spotify / Gmail” → their respective *_open
+- “Open Instagram / WhatsApp / Facebook / Twitter / Telegram / LinkedIn / Snapchat / Spotify / Gmail / Google / Youtube” → their respective *_open
 - “Play song on Spotify” → "song_play"
 - “Pause / next / previous song” → "music_control"
 
