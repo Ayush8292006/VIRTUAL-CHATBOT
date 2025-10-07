@@ -11,7 +11,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-    origin: "http://localhost:5173", // frontend port
+    origin: "https://virtual-chatbot-frontend-yth1.onrender.com", // frontend port
     credentials: true
 }));
 const port = process.env.PORT || 5000;
